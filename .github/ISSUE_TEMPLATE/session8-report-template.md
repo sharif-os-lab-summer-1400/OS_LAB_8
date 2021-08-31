@@ -7,19 +7,21 @@ assignees: fshahinfar1
 
 ---
 
-Team Name: `[FILL HERE]`
+Team Name: 97110285-97101286
 
-Student Name of member 1: `[FILL HERE]`
-Student No. of member 1: `[FILL HERE]`
+Student Name of member 1: Mohammadreza Abdi
+Student No. of member 1: 97110285
 
-Student Name of member 2: `[FILL HERE]`
-Student No. of member 2: `[FILL HERE]`
+Student Name of member 2: Alireza Ilami
+Student No. of member 2: 97101286
 
-- [ ] Read Session Contents.
+- [x] Read Session Contents.
 
 ### Section 8.3
-- [ ] Upload a zip file including needed materials
+- [x] [1.zip](https://github.com/mohammadrezaabdi/OS_LAB_8/files/7086036/1.zip)
+
 
 ### Section 8.4
-- [ ] Upload a zip file including needed materials
+- [x] [2.zip](https://github.com/mohammadrezaabdi/OS_LAB_8/files/7086039/2.zip)
+
 
